@@ -49,3 +49,6 @@ F.  Provide an original stored procedure in a text format that can be used to re
  
 
 G.  Provide a Panopto video recording that includes the presenter and a vocalized demonstration of the functionality of the code used for the analysis.
+
+Here is a link to the demonstration of the process of running the queries to get the wanted end result.
+LINK: https://drive.google.com/file/d/16anGx3TLRVdoJBZTUotfxZcisipiX92j/view?usp=sharing
